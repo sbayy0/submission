@@ -1,7 +1,10 @@
 # Bike Sharing Dashboard
 
-## Deskripsi
-Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis data peminjaman sepeda berdasarkan dataset yang tersedia. Data yang digunakan berasal dari file `main_data.csv`, yang telah difilter dari dataset `day.csv`.
+Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis pola penyewaan sepeda berdasarkan dataset historis.  
+
+- **EDA diperbarui** dengan insight yang lebih rinci dan sistematis.
+- **Dashboard interaktif** dengan fitur filter berdasarkan hari.
+- **Visualisasi yang lebih jelas** tentang hubungan suhu dengan jumlah penyewaan.
 
 ## Struktur Proyek
 ```
